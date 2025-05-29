@@ -46,8 +46,3 @@ installations.
 # Result:
 
 Thus a Repository has been created successfully.
-
-
-# Result:
-
-Thus a Repository has been created successfully.
